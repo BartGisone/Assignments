@@ -1,1 +1,1 @@
-The following are various assignments completed during my study period at york university.
+The following are various assignments completed during my study period at york university. The include python and java assignments which focus on data structures, machine learning principals and practical business uses.
